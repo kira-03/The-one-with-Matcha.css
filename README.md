@@ -1,5 +1,8 @@
 # Exploring Matcha CSS
-<img src="matcha.svg" alt="Matcha SVG" width="60" height="60" />
+<p align="center">
+    <img src="matcha.svg" alt="Matcha SVG" width="60" height="60" />
+</p>
+
 
 In this project, you'll find an example HTML file that uses Matcha CSS to style a basic webpage. The page includes a header, some introductory text, a call-to-action button, and a section highlighting the features of Matcha CSS.
 
