@@ -1,6 +1,6 @@
 # Exploring Matcha CSS
 <p align="center">
-    <img src="matcha.svg" alt="Matcha SVG" width="60" height="60" />
+    <img src="matcha.svg" alt="Matcha SVG" width="80" height="80" />
 </p>
 
 
